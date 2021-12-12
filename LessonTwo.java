@@ -1,9 +1,5 @@
 package ru.geekbrains.homework;
 
-import com.sun.xml.internal.fastinfoset.util.StringArray;
-
-import java.util.Collection;
-
 /**
  * Javan 1. HomeWork # 2
  *
