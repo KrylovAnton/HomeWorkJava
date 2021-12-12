@@ -1,5 +1,14 @@
 package ru.geekbrains.homework;
 
+/**
+ * Javan 1. HomeWork # 1
+ *
+ * @author Anton Krylov
+ *
+ * @version 12.12.2021
+ *
+ */
+
 public class LessonOne {
         public static void main(String[] args) {
             printThreeWords();
